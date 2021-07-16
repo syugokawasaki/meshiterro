@@ -1,0 +1,2 @@
+class PostoComment < ApplicationRecord
+end
