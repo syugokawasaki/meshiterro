@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class PostoCommentTest < ActiveSupport::TestCase
+class PostCommentTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end
